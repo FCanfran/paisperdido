@@ -1,6 +1,7 @@
 baseURL: "https://elpaisperdido.com/"
 title: El País Perdido
-paginate: 5
+pagination:
+  pagerSize: 5 
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -129,6 +130,9 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
 
 outputs:
   home:

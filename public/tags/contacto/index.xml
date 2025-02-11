@@ -9,7 +9,7 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.128.2</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/tags/contacto/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -17,9 +17,9 @@
       <link>http://localhost:1313/contacto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contacto/</guid>
-      <description>Soy Fernando Martín Canfrán. Tengo 24 años.
-Soy un apasionado del deporte así como de la naturaleza, en especial de la montaña, en concreto del Pirineo.
-Te puedes poner en contacto conmigo a través de mi correo electrónico: fermarcanfran@gmail.com</description>
+      <description>&lt;p&gt;Soy Fernando Martín Canfrán. Tengo 24 años.&lt;/p&gt;
+&lt;p&gt;Soy un apasionado del deporte así como de la naturaleza, en especial de la montaña, en concreto del Pirineo.&lt;/p&gt;
+&lt;p&gt;Te puedes poner en contacto conmigo a través de mi correo electrónico: &lt;a href=&#34;mailto:fermarcanfran@gmail.com&#34;&gt;fermarcanfran@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

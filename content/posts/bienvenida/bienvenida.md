@@ -38,13 +38,18 @@ cover:
 #    appendFilePath: true # to append file path to Edit link
 ---
 
-A ver, ¿qué es esto pues? Pues mira esto es un *blog* de estos que llaman, que básicamente es un diario o si quieres una bitácora en línea. Vamos, un lugar donde voy a ir escribiendo un poquico lo que me venga en gana y cuando me de la gana. Para que lo lea quién quiera y quien no quiera no lo lea.
+¡Muy buenas!
 
-Voy a intentar hacerlo lo mejor que pueda, o, como dijo un tal M.Rajoy: 
+Lo primero de todo me presento, soy Fernando Martín Canfrán, un apasionado más de la naturaleza, en especial de la montaña y más en concreto del Pirineo.
 
-*"haré todo lo que pueda y un poco más de lo que pueda si es que eso es posible, y haré todo lo posible e incluso lo imposible si también lo imposible es posible."*
+A veces escribo cosas o hago reflexiones que, muchas veces, me gustaría compartir con otras personas. Sin embargo, creo que en el fondo empiezo este blog con un ánimo más bien egoísta: mejorar mi escritura y aprender y reflexionar de temas varios que me vayan interesando. Si ya de paso estas publicaciones pueden resultar útiles para otras personas mucho mejor.
 
-Y eso pues. Vamos viendo.
-
+Y eso pues. Vamos viendo. 
 
 ¡Salud País!
+
+![anyisclo](/images/anyisclo.JPG)
+*P. D. La fotografía es de uno de mis lugares favoritos - sino el que más - del Pirineo: el Cañón de Añisclo.*
+
+
+
