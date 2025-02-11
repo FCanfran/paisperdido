@@ -1,4 +1,5 @@
-baseURL: "https://elpaisperdido.com/"
+#baseURL: "https://elpaisperdido.com/"
+baseURL: "https://fcanfran.github.io/paisperdido/"
 title: El País Perdido
 pagination:
   pagerSize: 5 
