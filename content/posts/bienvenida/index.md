@@ -40,9 +40,12 @@ cover:
 
 ¡Muy buenas!
 
+<div style="text-align: justify;">
+
 Lo primero de todo me presento, soy Fernando Martín Canfrán, un apasionado más de la naturaleza, en especial de la montaña y más en concreto del Pirineo.
 
 A veces escribo cosas o hago reflexiones que, muchas veces, me gustaría compartir con otras personas. Sin embargo, creo que en el fondo empiezo este blog con un ánimo más bien egoísta: mejorar mi escritura y aprender y reflexionar de temas varios que me vayan interesando. Si ya de paso estas publicaciones pueden resultar útiles para otras personas mucho mejor.
+</div>
 
 Y eso pues. Vamos viendo. 
 
