@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/paisperdido/posts/bienvenida/bienvenida/</loc>
+    <loc>http://localhost:1313/posts/bienvenida/</loc>
     <lastmod>2024-07-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/paisperdido/tags/bienvenida/</loc>
+    <loc>http://localhost:1313/tags/bienvenida/</loc>
     <lastmod>2024-07-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/paisperdido/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/paisperdido/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-07-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/paisperdido/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-07-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/paisperdido/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/paisperdido/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/paisperdido/tags/contacto/</loc>
+    <loc>http://localhost:1313/tags/contacto/</loc>
   </url><url>
-    <loc>http://localhost:1313/paisperdido/contacto/</loc>
+    <loc>http://localhost:1313/contacto/</loc>
   </url><url>
-    <loc>http://localhost:1313/paisperdido/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>
